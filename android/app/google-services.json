@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1072831543910",
+    "project_id": "dailytodo-aa083",
+    "storage_bucket": "dailytodo-aa083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072831543910:android:6b4adf005d9e6b20f40ba7",
+        "android_client_info": {
+          "package_name": "com.techbake.dailytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072831543910-h4tkqjui88ppgjm91dsgpd9qq3s06080.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbake.dailytodo",
+            "certificate_hash": "fede1c5a41f0c87746f549d34e9b1f8a2cb3865a"
+          }
+        },
+        {
+          "client_id": "1072831543910-htfoqpe10udbhetqa2dncc59tduded68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbake.dailytodo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1072831543910-u5ak0udpfih4pl7jkeolduufi9g6rdhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPDRuvYrqa35AtRYBXaVEN36uhN6AOTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072831543910-u5ak0udpfih4pl7jkeolduufi9g6rdhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072831543910-ji9drg8qe3coql6g8a8nd86pi4rsd1ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techbake.dailytodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

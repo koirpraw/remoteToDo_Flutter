@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "myTasks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isDone",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Time",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
